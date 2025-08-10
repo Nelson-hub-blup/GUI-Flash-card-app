@@ -12,3 +12,5 @@ This project was built to make self-paced learning more interactive and organize
 
 💡 Why This App Stands Out:
 Unlike generic note-taking tools, the Flashcards Study App is focused purely on active recall, which is scientifically proven to strengthen memory retention. Its minimal design ensures learners can focus on content instead of distractions
+
+This is also my biggest project till date that i've done,even go 2 nights with just abt 2-3 hours of sleep it took me few days to complete this,i keep progressing day by day and by God's grace i,ll do way more complex projects in future.
